@@ -1,0 +1,64 @@
+body{
+    background-color: lightslategray;
+    width: 700px;
+    margin: 0 auto;
+ }
+
+ #cabecalho{
+     color: darkblue;
+     font-family: Tahoma;
+     text-align: center;
+ }
+
+ h2 span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgrey;
+    font-size: 18pt;
+ }
+
+ .texto1{
+     color: black;
+     font-family: 'Segoe UI';
+     font-size: 16pt;    
+ }
+
+ .texto2{
+     color: black;
+     font-family: 'Segoe UI';
+ }
+
+ img{
+     height: 300px;
+     width: 300px;
+     box-sizing: border-box;
+     border-radius: 50%;
+     }
+
+ h1{
+     font-size: 36pt;
+ }
+
+ h2{
+     font-size: 20pt;
+     color: lightblue;
+ }
+
+ button{
+     width: 28%;
+     box-sizing: border-box;
+     margin: 10;
+     background-color: darkblue;
+     border: none;
+ }
+
+ button a{
+     text-decoration: none;
+     text-transform: uppercase;    
+     color: white;
+     font-weight: 100;
+     font-size: 8pt;
+     }
+
+#rodape{
+    padding-top: 20px;
+    }
